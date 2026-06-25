@@ -1,0 +1,22 @@
+# Database
+*.db
+*.sqlite3
+instance/
+
+# Uploads (temp files)
+uploads/*.xlsx
+uploads/*.xls
+uploads/*.csv
+uploads/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
